@@ -1,0 +1,14 @@
+D:\study projects\adventofcode\Advent.CalibrationValues\bin\Debug\net7.0\Advent.CalibrationValues.exe
+D:\study projects\adventofcode\Advent.CalibrationValues\bin\Debug\net7.0\Advent.CalibrationValues.deps.json
+D:\study projects\adventofcode\Advent.CalibrationValues\bin\Debug\net7.0\Advent.CalibrationValues.runtimeconfig.json
+D:\study projects\adventofcode\Advent.CalibrationValues\bin\Debug\net7.0\Advent.CalibrationValues.dll
+D:\study projects\adventofcode\Advent.CalibrationValues\bin\Debug\net7.0\Advent.CalibrationValues.pdb
+D:\study projects\adventofcode\Advent.CalibrationValues\obj\Debug\net7.0\Advent.CalibrationValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\study projects\adventofcode\Advent.CalibrationValues\obj\Debug\net7.0\Advent.CalibrationValues.AssemblyInfoInputs.cache
+D:\study projects\adventofcode\Advent.CalibrationValues\obj\Debug\net7.0\Advent.CalibrationValues.AssemblyInfo.cs
+D:\study projects\adventofcode\Advent.CalibrationValues\obj\Debug\net7.0\Advent.CalibrationValues.csproj.CoreCompileInputs.cache
+D:\study projects\adventofcode\Advent.CalibrationValues\obj\Debug\net7.0\Advent.CalibrationValues.dll
+D:\study projects\adventofcode\Advent.CalibrationValues\obj\Debug\net7.0\refint\Advent.CalibrationValues.dll
+D:\study projects\adventofcode\Advent.CalibrationValues\obj\Debug\net7.0\Advent.CalibrationValues.pdb
+D:\study projects\adventofcode\Advent.CalibrationValues\obj\Debug\net7.0\Advent.CalibrationValues.genruntimeconfig.cache
+D:\study projects\adventofcode\Advent.CalibrationValues\obj\Debug\net7.0\ref\Advent.CalibrationValues.dll
